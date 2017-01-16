@@ -1,0 +1,22 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named foo.txt.
+#foo.txt
+*.ini
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.xlsm
+*.uos
+*.pyc
+__pycache__
+Tarifs
+myvenv
+db.sqlite3
+.DS_Store
+# Ignore (generated) html files,
+#*.html
+# except foo.html which is maintained by hand.
+#!foo.html
+# Ignore objects and archives.
+#*.[oa]
