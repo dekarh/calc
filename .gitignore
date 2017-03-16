@@ -1,11 +1,11 @@
 # Lines starting with '#' are considered comments.
 # Ignore any file named foo.txt.
 #foo.txt
-*.ini
+#*.ini
 *.doc
 *.docx
 *.xls
-*.xlsx
+#*.xlsx
 *.xlsm
 *.uos
 *.pyc
